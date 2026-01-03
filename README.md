@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Vishrut Abrol
 
-🚀 Backend Node.js Developer | Passionate about building scalable and clean backend systems
+🚀 Developer | Passionate about building scalable and clean systems
 
 # 💫 About Me:
 ⚡ Fun fact👨‍💻 Currently working as a Node.js Backend Developer<br>🧠 Passionate about creating efficient, scalable, and creative backend solutions<br>🌱 Actively learning frontend development to become a better full-stack developer<br>🔍 Curious about system design, APIs, databases, and real-world problem solving<br>🎯 Always excited to learn new technologies and improve my skill set
